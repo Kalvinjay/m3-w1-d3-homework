@@ -1,0 +1,11 @@
+{
+  "name": "wk1-day3-homework",
+  "version": "1.0.0",
+  "description": "Week 1 Day 3 Homework Module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kalvin Abraham-Mendez",
+  "license": "ISC"
+}
